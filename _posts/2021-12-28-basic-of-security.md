@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: 보안
-categories: [markdown]
+categories: []
 title: Basic of Security
 ---
 # 보안의 기본
